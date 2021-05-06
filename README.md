@@ -1,9 +1,10 @@
 # assistantPY
 A Simple Voice Assistant Python program!! 
-<b><u>Modules Used</u></b>
+<p><b><u>Modules Used</u></b></p>
 <p>speech_recognition</p>
-pyttsx3
- pywhatkit
- datetime
- wikipedia
- pyjokes</p>
+<p>pyttsx3</p>
+<p>pywhatkit</p>
+<p>datetime</p>
+<p>wikipedia</p>
+<p>pyjokes</p>
+<p><i>Just made it caused I was bored!! Not working on it rn</i></p>
