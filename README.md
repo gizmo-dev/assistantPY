@@ -7,4 +7,4 @@ A Simple Voice Assistant Python program!!
 <p>datetime</p>
 <p>wikipedia</p>
 <p>pyjokes</p>
-<p><i>Just made it caused I was bored!! Not working on it rn</i></p>
+<p><i>Just made it cause I was bored!! Not working on it rn</i></p>
